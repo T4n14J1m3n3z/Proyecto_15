@@ -1,7 +1,10 @@
-# Descripción del proyecto
-A la cadena de supermercados Good Seed le gustaría explorar si la ciencia de los datos puede ayudarle a cumplir con las leyes sobre el alcohol, al asegurarse de no vender alcohol a personas menores de edad. Te piden que hagas esa evaluación, así que, cuando te pongas a trabajar, ten en cuenta lo siguiente:
+## Developing a Model for Age Verification for Alcohol Purchases
 
-Las tiendas están equipadas con cámaras en el área de pago, las cuales se activan cuando una persona está comprando alcohol.
-Los métodos de visión artificial se pueden usar para determinar la edad de una persona a partir de una foto.
-La tarea, entonces, es construir y evaluar un modelo para verificar la edad de las personas.
-Para empezar a trabajar en la tarea, tendrás un conjunto de fotografías de personas que indican su edad.
+Description:
+
+"Good Seed" , a supermarket chain, aims to explore whether data science can assist in complying with alcohol regulations by ensuring that alcohol is not sold to minors. You are tasked with evaluating this possibility, considering the following:
+
+Stores are equipped with cameras at the checkout area, which activate when a person is purchasing alcohol.
+Computer vision methods can be used to estimate a person's age from a photo.
+Your task is to build and evaluate a model to verify individuals' ages.
+You will start by working with a dataset of photographs indicating the age of individuals.
